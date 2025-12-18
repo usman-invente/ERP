@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'productcatalogue_module' => 'QR Generate Module',
+    'catalogue_qr' => 'QR Generate',
+    'generate_qr' => 'Generate QR',
+    'select_business_location' => 'Select Business Location',
+    'download_image' => 'Download Image',
+    'qr_code_color' => 'Qr code color',
+    'catalogue_instruction_1' => 'Select business location and QR code color',
+    'catalogue_instruction_2' => 'Choose title, subtitle and to show logo or not',
+    'catalogue_instruction_3' => 'Click on generate QR code',
+    'product_catalogue' => 'Product Catalogue',
+    'show_business_logo_on_qrcode' => 'Show business logo on qrcode',
+    'title' => 'Title',
+    'subtitle' => 'Subtitle',
+    'qr_code_customerregister' => 'QR-Code Customer Register',    
+    'consent_dokument_generate_qr' => 'QR-Code Einwilligung + Dokumente',
+    'vollmacht_generate_qr' => 'QR-Code Einwilligung + Vollmacht',
+    'consent_generate_qr' => 'QR-Code Einwilligung',
+    'newsletter_generate_qr' => 'QR-Code Newsletter',
+    'qr_code' => 'QR-Code',
+    'show_title_on_qrcode' => 'Titel show',
+    'show_title_and_subtitle_on_qrcode' => 'Titel und Subtitel show',
+];

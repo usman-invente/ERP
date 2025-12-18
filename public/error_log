@@ -1,0 +1,8 @@
+[28-Feb-2025 14:21:18 UTC] PHP Warning:  require(/home/neoburg/public_html/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home/neoburg/public_html/vendor/composer/autoload_real.php on line 55
+[28-Feb-2025 14:21:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/neoburg/public_html/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/neoburg/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/neoburg/public_html/vendor/composer/autoload_real.php(38): composerRequirec24849ce517e595851d0c0a3e2c94573()
+#1 /home/neoburg/public_html/vendor/autoload.php(25): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/neoburg/public_html/public/index.php(34): require('/home/neoburg/p...')
+#3 {main}
+  thrown in /home/neoburg/public_html/vendor/composer/autoload_real.php on line 55

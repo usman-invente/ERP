@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'productcatalogue_module' => 'QR Generator Module',
+    'catalogue_qr' => 'QR Generator',
+    'generate_qr' => 'Generieren QR',
+    'select_business_location' => 'Select Business Location',
+    'download_image' => 'Download Image',
+    'qr_code_color' => 'QR Code Farbe',
+    'catalogue_instruction_1' => 'Wählen Business Lokation und die QR Code Farbe aus.',
+    'catalogue_instruction_2' => 'Schreiben den Titel und Subtitel und Checkbox auswählen, wenn Business Logo anzeigen wollen.',
+    'catalogue_instruction_3' => 'Klicken "Generieren QR"',
+    'product_catalogue' => 'Produkt Katalog',
+    'show_business_logo_on_qrcode' => 'Business Logo anzeigen',
+    'title' => 'Titel',
+    'subtitle' => 'Subtitel',
+    'qr_code_customerregister' => 'QR-Code Kundenregistrierung',
+    'consent_dokument_generate_qr' => 'Einwilligung + Dokumente',
+    'vollmacht_generate_qr' => 'Einwilligung + Vollmacht',
+    'consent_generate_qr' => 'Einwilligung',
+    'newsletter_generate_qr' => 'Newsletter',
+    'qr_code' => 'QR-Code',
+    'show_title_on_qrcode' => 'Titel anzeigen',
+    'show_title_and_subtitle_on_qrcode' => 'Titel and Subtitel anzeigen',
+];

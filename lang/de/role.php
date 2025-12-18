@@ -1,0 +1,85 @@
+<?php
+
+ return [
+    'add_role' => 'Rolle hinzufügen',
+    'edit_role' => 'Rolle bearbeiten',
+    'user' => 'Benutzer',
+    'supplier' => 'Lieferant',
+    'customer' => 'Kunde',
+    'purchase' => 'Einkauf & Bestandsanpassung',
+    'report' => 'Bericht',
+    'user.view' => 'Benutzer anzeigen',
+    'user.create' => 'Benutzer hinzufügen',
+    'user.update' => 'Benutzer bearbeiten',
+    'user.delete' => 'Benutzer löschen',
+
+     'supplier.view' => 'Lieferant anzeigen',
+    'supplier.create' => 'Lieferant hinzufügen',
+    'supplier.update' => 'Lieferant bearbeiten',
+    'supplier.delete' => 'Lieferant löschen',
+
+    'customer.view' => 'Kunde ansehen',
+    'customer.create' => 'Kunde hinzufügen',
+    'customer.update' => 'Kunde bearbeiten',
+    'customer.delete' => 'Kunde löschen',
+
+    'product.view' => 'Produkt ansehen',
+    'product.create' => 'Produkt hinzufügen',
+    'product.update' => 'Produkt bearbeiten',
+    'product.delete' => 'Produkt löschen',
+
+    'purchase.view' => 'Einkauf & Bestandsanpassung anzeigen',
+    'purchase.create' => 'Einkauf & Bestandsanpassung hinzufügen',
+    'purchase.update' => 'Einkauf & Bestandsanpassung bearbeiten',
+    'purchase.delete' => 'Einkauf & Bestandsanpassung löschen',
+
+    'sell.view' => 'POS-Verkauf anzeigen',
+    'sell.create' => 'POS-Verkauf hinzufügen',
+    'sell.update' => 'POS-Verkauf bearbeiten',
+    'sell.delete' => 'POS-Verkauf löschen',
+
+     
+    'purchase_n_sell_report.view' => 'Kauf- und Verkaufsbericht anzeigen',
+    'contacts_report.view' => 'Lieferanten- und Kundenbericht anzeigen',
+    'stock_report.view' => 'Bestandsbericht, Bestandsanpassungsbericht und Bestandsverfallbericht anzeigen',
+    'tax_report.view' => 'Steuerbericht anzeigen',
+    'trending_product_report.view' => 'Trending-Produktbericht anzeigen',
+    'register_report.view' => 'Registerbericht anzeigen',
+    'sales_representative.view' => 'Vertreterbericht anzeigen',
+    'expense_report.view' => 'Spesenbericht anzeigen',
+
+    'business_settings.access' => 'Zugang zu den Geschäftseinstellungen',
+    'barcode_settings.access' => 'Zugriff auf Barcode-Einstellungen',
+    'invoice_settings.access' => 'Zugang zu den Rechnungseinstellungen',
+
+    'brand.view' => 'Marke anzeigen',
+    'brand.create' => 'Marke hinzufügen',
+    'brand.update' => 'Marke bearbeiten',
+    'brand.delete' => 'Marke löschen',
+
+    'tax_rate.view' => 'Steuersatz anzeigen',
+    'tax_rate.create' => 'Steuersatz hinzufügen',
+    'tax_rate.update' => 'Steuersatz bearbeiten',
+    'tax_rate.delete' => 'Steuersatz löschen',
+
+    'unit.view' => 'Einheit anzeigen',
+    'unit.create' => 'Einheit hinzufügen',
+    'unit.update' => 'Einheit bearbeiten',
+    'unit.delete' => 'Einheit löschen',
+
+    'category.view' => 'Kategorie anzeigen',
+    'category.create' => 'Kategorie hinzufügen',
+    'category.update' => 'Kategorie bearbeiten',
+    'category.delete' => 'Kategorie löschen',
+    'select_all' => 'Alles auswählen',
+    'settings' => 'Einstellungen',
+    'brand' => 'Marke',
+    'tax_rate' => 'Steuersatz',
+    'unit' => 'Einheit',
+    'access_locations' => 'Zugangsorte',
+    'all_locations' => 'Alle Standorte',
+    'dashboard' => 'Dashboard',
+    'dashboard.data' => 'Dashboard anzeigen',
+    'profit_loss_report.view' => 'Gewinn-/Verlustbericht anzeigen',
+    'direct_sell.access' => 'Zugang Verkauf',
+ ];

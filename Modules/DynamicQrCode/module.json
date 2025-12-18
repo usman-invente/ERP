@@ -1,0 +1,11 @@
+{
+    "name": "DynamicQrCode",
+    "alias": "dynamicqrcode",
+    "description": "DynamicQrCode & Menu module",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DynamicQrCode\\Providers\\DynamicQrCodeServiceProvider"
+    ],
+    "files": []
+}

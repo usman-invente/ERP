@@ -1,0 +1,8 @@
+[12-Mar-2023 16:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/portalneoburg/public_html/app/Contact.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/portalneoburg/public_html/app/Contact.php on line 10
+[20-Jun-2023 00:46:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/portalneoburg/public_html/app/Contract.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/portalneoburg/public_html/app/Contract.php on line 11
